@@ -179,7 +179,7 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+	<!--<distributionManagement>
   		<repository>
     		<id>Releases</id>
     		<url>http://localhost:8088/nexus/content/repositories/Releases</url>
@@ -188,6 +188,6 @@
    		<id>localsnapshots</id>
     		<url>http://localhost:8088/nexus/content/repositories/localsnapshots</url>
  		</snapshotRepository>
-	</distributionManagement>
+	</distributionManagement>-->
 	<name>simple-web-app</name>
 </project>
